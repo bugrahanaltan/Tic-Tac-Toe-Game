@@ -65,7 +65,7 @@ def full_board_check(board):
             return False
     return True
 
-# To play again ?
+# To play again 
 def replay():
 
     play = input("Do you want to play again ? (Y/N) : ")
